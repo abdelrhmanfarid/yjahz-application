@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#00957B</color>
+    <color name="edit_text_alpha">#CCFFFFFF</color>
+    <color name="forget_password_text_color">#9C9C9C</color>
+    <color name="gold_text_color">#FFD279</color>
+    <color name="hint_text_color">#E3DDDD</color>
+    <color name="text_color">#484848</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Yjahz Application</string>
+    <string name="categories">Categories</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="don_t_have_an_account">Don’t have an account ?</string>
+    <string name="email">Email.</string>
+    <string name="forgot_the_password">Forgot the password ?</string>
+    <string name="have_an_account">have an account ?</string>
+    <string name="home">Home</string>
+    <string name="login">login</string>
+    <string name="name">Name</string>
+    <string name="no_network">There is no active network connected to your device</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="popular_now">Popular now</string>
+    <string name="search_for_fav_food">Search for fav food ...</string>
+    <string name="server_error">Something went wrong, please try again later</string>
+    <string name="sign_up">sign up</string>
+    <string name="trending_now">Trending now</string>
+    <string name="view_all">View all</string>
+    <string name="write_11_numbers">Write 11 numbers</string>
+    <string name="write_14_character">Write 14 character</string>
+    <string name="write_8_character_at_least">Write 8 character at least</string>
+    <string name="write_your_email">write your email</string>
+    <string name="write_your_password_again">Write your password again</string>
+    <style name="Base.Theme.YjahzApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.YjahzApplication" parent="Base.Theme.YjahzApplication"/>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/home_categories_recycler_item.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/home_categories_recycler_item.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/popular_now_recycler_item.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/popular_now_recycler_item.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/fragment_sign_up.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/trending_now_recycler_item.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/trending_now_recycler_item.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.farid.yjahzapplication.app-mergeDebugResources-55:/layout/fragment_login.xml",
+        "source": "com.farid.yjahzapplication.app-main-58:/layout/fragment_login.xml"
+    }
+]
